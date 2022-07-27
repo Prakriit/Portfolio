@@ -1,0 +1,16 @@
+{
+  "name": "frontend24",
+  "version": "1.0.0",
+  "description": "prakrit edition",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack serve --open"
+  },
+  "author": "Gleb",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.61.0",
+    "webpack-cli": "^4.9.1",
+    "webpack-dev-server": "^4.4.0"
+  }
+}
